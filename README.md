@@ -31,7 +31,7 @@ In order of size, from large to small:
 [Voyager20-FnRow](https://github.com/ai03-2725/Voyager20/tree/FnRow) - A numpad PCB with FN row.
 ![V20FN Render](https://raw.githubusercontent.com/ai03-2725/Voyager20/FnRow/Render/Front.png?raw=true)
 
-[Voyager20](https://github.com/ai03-2725/Voyager20/tree/FnRow) - A numpad PCB.
+[Voyager20](https://github.com/ai03-2725/Voyager20) - A numpad PCB.
 ![V20 Render](https://github.com/ai03-2725/Voyager20/raw/master/Render/Front.png?raw=true)
 
 [Voyager4](https://github.com/ai03-2725/Voyager4) - Absolutely tiny, densely packed, loses no features.
