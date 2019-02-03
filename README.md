@@ -25,6 +25,9 @@ In order of size, from large to small:
 [Voyager60](https://github.com/ai03-2725/Voyager60) - A 60% PCB with typical tray mount points
 ![V60 Render](https://github.com/ai03-2725/Voyager60/raw/master/Renders/Front.png?raw=true)
 
+[Voyager40](https://github.com/ai03-2725/Voyager40) - A fully featured 40% PCB
+![V40 Render](https://github.com/ai03-2725/Voyager40/raw/master/Renders/Front.png?raw=true)
+
 [Voyager20-FnRow](https://github.com/ai03-2725/Voyager20/tree/FnRow) - A numpad PCB with FN row.
 ![V20FN Render](https://raw.githubusercontent.com/ai03-2725/Voyager20/FnRow/Render/Front.png?raw=true)
 
