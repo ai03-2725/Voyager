@@ -2,7 +2,7 @@
 
 ### About
 The Voyager series is a set of open source mechanical keyboard PCBs built around a set of basic features:
-* RGB Underglow
+* RGB Underglow (If applicable)
 * Per-key LED
 * USB Type-C
 * Overcurrent, ESD protection 
@@ -27,6 +27,10 @@ In order of size, from large to small:
 
 [Voyager40](https://github.com/ai03-2725/Voyager40) - A fully featured 40% PCB
 ![V40 Render](https://github.com/ai03-2725/Voyager40/raw/master/Renders/Front.png?raw=true)
+
+
+[Voyager20-3700](https://github.com/ai03-2725/Voyager20/tree/3700) - A Cherry G80-3700 replacement PCB.
+![V20-3700 Render](https://raw.githubusercontent.com/ai03-2725/Voyager20/3700/Render/Front.png?raw=true)
 
 [Voyager20-FnRow](https://github.com/ai03-2725/Voyager20/tree/FnRow) - A numpad PCB with FN row.
 ![V20FN Render](https://raw.githubusercontent.com/ai03-2725/Voyager20/FnRow/Render/Front.png?raw=true)
