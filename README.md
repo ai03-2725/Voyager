@@ -2,7 +2,7 @@
 
 ### About
 The Voyager series is a set of open source mechanical keyboard PCBs built around a set of basic features:
-* RGB Underglow
+* RGB Underglow - On sizes 87 and smaller
 * Per-key LED
 * USB Type-C
 * Overcurrent, ESD protection 
@@ -18,6 +18,9 @@ The series is a work in progress. More form factors coming soon.
 
 
 In order of size, from large to small:
+
+[Voyager104](https://github.com/ai03-2725/Voyager104) - A proper full-size PCB.
+![V104 Render](https://github.com/ai03-2725/Voyager104/blob/master/Renders/Front.png?raw=true)
 
 [Voyager97](https://github.com/ai03-2725/Voyager97) - A compact layout offering full-size functionality.
 ![V97 Render](https://github.com/ai03-2725/Voyager97/blob/master/Render/Front.png?raw=true)
