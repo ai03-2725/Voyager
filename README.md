@@ -31,6 +31,9 @@ In order of size, from large to small:
 [Voyager60-Alps](https://github.com/ai03-2725/Voyager60/tree/alps) - A 60% PCB tailored for Alps SKCM/L
 ![V60A Render](https://raw.githubusercontent.com/ai03-2725/Voyager60/alps/Renders/Front.png?raw=true)
 
+[Voyager40](https://github.com/ai03-2725/Voyager50) - A balance between function and size
+![V50 Render](https://raw.githubusercontent.com/ai03-2725/Voyager50/master/Render/Front.png)
+
 [Voyager40](https://github.com/ai03-2725/Voyager40) - A fully featured 40% PCB
 ![V40 Render](https://github.com/ai03-2725/Voyager40/raw/master/Renders/Front.png?raw=true)
 
